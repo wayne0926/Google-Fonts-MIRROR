@@ -27,9 +27,9 @@ handle_cookie: True
 
 host:
   self: fonts.wr0926.ml
-  proxy: fonts.google.com
+  proxy: fontss.wr0926.ml
 replaced_urls:
-  - old: fonts.google.com
+  - old: fontss.wr0926.ml
     new: fonts.wr0926.ml
 `
 var Config *Yaml
